@@ -8,7 +8,7 @@ develop into a working website using HTML CSS and if needed JavaScript.
 the collaboration branch of the project is at 
 https://github.com/tegajunior/waaw_group1_task1
 
--Check it out at   https://waaw-group1-week1-project.surge.sh/
+-Check it out at   https://view-project.surge.sh/
 
 <img src="https://github.com/GodfreySam/SHEHACK-WAAW/blob/main/Waaw-Group1-project1.gif" width="700">
 
